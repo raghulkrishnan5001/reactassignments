@@ -1,0 +1,38 @@
+.wel{
+border:5px black solid;
+padding: 10px;
+padding: bottom 200px;;
+border-radius: 5px;
+width:650px;
+margin:auto;
+background-image:url(bg1.jpg);
+}
+.oo{
+        display:flex;
+        justify-content: space-around;
+}  
+
+.ss{
+    margin: left auto;
+    display:flex;
+    justify-content: space-between;
+}
+
+.jj{
+    margin-left:auto;
+    display:flex;
+    justify-content: space-between;
+}
+
+.st{
+    color:rgb(22, 22, 148);
+}
+hr {
+    display:center;
+    height: 100px;
+    border-top: 1px solid black;
+}
+.jkl{
+    display: flex;
+    justify-content: space-between;
+}

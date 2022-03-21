@@ -1,0 +1,38 @@
+.rr{
+    border:5px black solid;
+    border-radius: 5px;
+    width:960px;
+    margin:auto;
+}
+.rr input[type="text"]{
+    width:300px;
+}
+.aa{
+    display:flex;
+    justify-content: space-around
+}
+.bb{
+    display:flex;
+    justify-content: space-around
+}
+.dd{
+    display:flex;
+    justify-content:space-around
+}
+.ee{
+    display:flex;
+    justify-content:space-around
+}
+.cc{
+    margin-left:9%;
+}
+.cc input{
+    width:780px!important;
+
+}
+.ff{
+    margin-left:9%;
+}
+.ff input{
+    width:780px!important;
+}

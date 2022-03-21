@@ -1,0 +1,64 @@
+.xx{
+    border:5px black solid;
+    padding: 10px;
+    padding: bottom 200px;;
+    border-radius: 5px;
+    width:500px;
+    margin:auto;
+    background-color: black;
+
+}
+.xx input[type="text"]{
+    width:150px;
+}
+.ll{
+    color: wheat;
+}
+.zz{
+    display:flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+.vv{
+    margin-left:9%;
+    justify-content: space-around;
+    padding: 10px;
+}
+.vv input{
+    width: 390px!important;
+
+}
+.nn{
+    margin-left:9%;
+    justify-content: space-around;
+    padding: 10px;
+}
+.nn input{
+    width: 390px!important;
+
+}
+.mm{
+    margin-left:9%;
+    justify-content: space-around;
+    padding: 10px;
+}
+.mm input{
+    width: 390px!important;
+
+}
+.tt{
+    margin-left:9%;
+    justify-content: space-around;
+    padding: 10px;
+}
+.tt input{
+    width: 390px!important;
+
+}
+.button{
+    color:white;
+    margin-left: 69%;
+    background-color: green;
+    
+}
+    

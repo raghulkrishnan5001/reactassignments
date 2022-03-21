@@ -1,0 +1,30 @@
+.vot{
+    border:5px black solid;
+    padding: 10px;
+    border-radius: 5px;
+    width:300px;
+    margin:auto;
+}
+.pp{
+    display:flex;
+    justify-content: space-around;
+    margin-left: 7%;
+}
+.hh{
+    display:flex;
+    justify-content: space-around;
+    margin-left: 3%;
+}
+.qq{
+    display:flex;
+    justify-content: space-around;
+    margin-left: 2%;
+}
+.tt{
+    display:flex;
+    justify-content: space-around;
+    margin-left: 1%;
+}
+.state{
+    text-align: center;
+}
