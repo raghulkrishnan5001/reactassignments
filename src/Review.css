@@ -1,0 +1,71 @@
+/* .re{
+    color: #063970;
+}
+
+.p1{
+    display: flex;
+    justify-content: center;
+    clip-path: circle();
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+.rk{
+    margin-left: 420px;
+    margin-top: 50px;
+}
+
+.kr{
+    letter-spacing: 1px;
+}
+
+.an{
+    color: rgb(13, 154, 154);
+}
+
+.bt1{
+    background-color: white;
+    
+}
+.bt2{
+    background-color: white;
+}
+
+.backgrounds{
+    background-color:aqua ;
+    overflow: hidden;
+}
+.underline{
+    width: 10rem;
+    height: 0.30rem;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-bottom: solid;
+}
+.card{
+    padding: 20%;
+}
+
+.car{
+    padding-top: 20px;
+} */
+
+.p1{
+    display: flex;
+    justify-content: center;
+    clip-path: circle();
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+.kr{
+    letter-spacing: 1px;
+   
+}
+
+.an{
+    color: rgb(13, 154, 154);
+}
+
+
